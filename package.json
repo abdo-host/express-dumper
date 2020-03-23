@@ -1,0 +1,31 @@
+{
+  "name": "express-dumper",
+  "version": "1.0.0",
+  "description": "Express js dump array or object with unordered list as tree view with html and css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdo-host/express-dumper.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "expressjs",
+    "middleware",
+    "dump",
+    "var-dump"
+  ],
+  "author": "Tatwerat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdo-host/express-dumper/issues"
+  },
+  "deprecated": false,
+  "devDependencies": {
+    "express": "^4.16.4"
+  },
+  "homepage": "https://github.com/abdo-host/express-dumper#readme"
+}
