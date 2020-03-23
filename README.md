@@ -17,6 +17,7 @@ Express js dump array or object with unordered list as tree view with html and c
 #### How to use ?
 
 `const dumper = require('express-dumper');`
+
 `dumper.dump(/* array or object */)`
 
 #### Sample with express view
