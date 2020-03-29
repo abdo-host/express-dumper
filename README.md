@@ -1,6 +1,10 @@
 # express-dumper
 Express js dump array or object with unordered list as tree view with html and css
 
+[![npm](https://img.shields.io/npm/v/express-dumper.svg)](https://www.npmjs.com/package/express-dumper)  [![downloads](https://img.shields.io/npm/dm/express-dumper.svg)](https://npmjs.org/package/express-dumper)
+
+`npm i express-dumper --save`
+
 ### Sample View
 
  - [1] key => value
