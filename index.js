@@ -26,11 +26,6 @@ const dumper = {
         let index_1 = 0;
         this.forEach(array, (value, key) => {
             if ((value instanceof Object || value instanceof Array) && value instanceof Date == false) {
-                console.log('____key___', value);
-                console.log('____keccy___', value instanceof Object);
-                console.log('____kessssy___', value instanceof Array);
-                console.log('____date___', value instanceof Date == false);
-                console.log('____date_2___', value instanceof Date);
                 index_1++;
                 list += `<li><input type="checkbox" hidden id="node-dumber-tree-${key}-${index_1}"> <label for="node-dumber-tree-${key}-${index_1}">${key}</label>`;
                 list += `<ul>`;
